@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  font-size: 40px;
+  color: white;
+  font-weight: normal;
+  text-align:center;
+  font-weight:normal;
+}
+a {
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inherit;
+  font-weight:lighter;
+}
+#content-wrapper{
+  margin: 5vh;
+  height: 90%;
+}
+#background-image{
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-image: url("rebecca_halv.jpg");
+}
+#coming-soon{
+  position: absolute;
+  width: 65vw;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+}
