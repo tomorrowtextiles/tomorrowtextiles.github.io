@@ -9,25 +9,51 @@ h1 {
   text-align:center;
   font-weight:normal;
 }
-a {
-  font-size: 25px;
+p {
+  font-size: 15px;
   color: white;
   text-align: center;
-  text-decoration: none;
-  display: inherit;
   font-weight:lighter;
 }
+ul{
+  margin: 0;
+  padding: 0;
+}
+li{
+  list-style-type: none;
+  display: inline;
+}
+a{
+  font-size: 15px;
+  text-decoration: none;
+  color: black;
+}
+nav {
+  margin: 2vh 4vw 2vh 4vw;
+}
+#instagram-link {
+  float: right;
+}
+#icon{
+  width: 20px;
+}
 #content-wrapper{
-  margin: 5vh;
+  margin: 0vh 4vw 4vh 4vw;
   height: 90%;
 }
-#background-image{
+#background-image-index{
   height: 100%;
   background-position: center;
   background-size: cover;
   background-image: url("rebecca_halv.jpg");
 }
-#coming-soon{
+#overlay-index {
+  position: inherit;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0,0.3);
+}
+#text-intro-index{
   position: absolute;
   width: 65vw;
   top: 50vh;
