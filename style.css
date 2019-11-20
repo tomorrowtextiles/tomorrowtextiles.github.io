@@ -53,6 +53,15 @@ nav {
   width: 100%;
   background-color: rgba(0,0,0,0.3);
 }
+#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 5vh;
+  width: 20%;
+
+
+}
 #text-intro-index{
   position: absolute;
   width: 65vw;
