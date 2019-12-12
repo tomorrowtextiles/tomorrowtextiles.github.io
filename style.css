@@ -232,11 +232,11 @@ nav {
   }
   p {
     font-size: 12px;
-    line-height: 16px;
+    line-height: 18px;
   }
   li {
-    font-size: 15px;
-    line-height: 20px;
+    font-size: 12px;
+    line-height: 18px;
   }
   .content-wrapper-grid{
     display: grid;
