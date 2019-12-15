@@ -127,10 +127,10 @@ nav {
 /* Framtiden är nu */
 #content-wrapper-framtid-left{
   background-color: #ffffff;
-  background-image: url("rebecca_halv.jpg");
+  background-image: url("plagg_halv.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: top;
 }
 #content-wrapper-framtid-right{
   background-color: #D8E5E1;
